@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Computer Programming
+- 🌱 Always learning Programming
+- 🔭 I’m currently working on 
+  -  Improving in C++
+  -  Improving in Python

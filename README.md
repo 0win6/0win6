@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
   -  Improving in C++
   -  Improving in Python
+  -  Improving in JavaScript
+  -  improving in SQL

@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Always learning Programming
-- 🔭 I’m currently working on 
-  -  Improving in C++
-  -  Improving in Python
-  -  Improving in JavaScript
-  -  improving in SQL
+💬 Seasoned IT professional with over 10 years of experience in system administration, process automation, and cloud support. After a decade of enhancing system stability and efficiency, I am now pivoting my career to focus on software development.
+
+✨ Core Competencies & Technologies:
+
+⚡ Languages: Python, JavaScript, SQL, C++, CSS 
+
+⚡ Cloud & Platforms: Microsoft Azure, Windows Server 
+
+⚡ Key Skills: System Automation, Windows Administration, Technical Problem-Solving 
+
+🌱 I'm currently focused on deepening my expertise in C++, Python, JavaScript, and SQL, applying my new skills from my recent Computer Programming diploma to build practical projects.
